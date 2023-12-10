@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065687698483",
+    "project_id": "login-ebus",
+    "storage_bucket": "login-ebus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065687698483:android:0dc1dfd3d2a81e74f72746",
+        "android_client_info": {
+          "package_name": "com.example.new_sdk_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5GaBiqRxi0fLdz47Jx0F2hyCRa05OMXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
