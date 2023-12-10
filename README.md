@@ -1,9 +1,6 @@
 # EBus Travelmate - City Bus Ticket Booking App
 
-[![GitHub license](https://img.shields.io/github/license/dpmehta/ebus_travelmate)](https://github.com/your-username/ebus_travelmate/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/dpmehta/ebus_travelmate)](https://github.com/your-username/ebus_travelmate/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/dpmehta/ebus_travelmate)](https://github.com/your-username/ebus_travelmate/network)
-[![GitHub issues](https://img.shields.io/github/issues/dpmehta/ebus_travelmate)](https://github.com/your-username/ebus_travelmate/issues)
+
 
 Welcome to **EBus Travelmate**, your smart solution for city bus ticket booking! This Flutter application revolutionizes the way users interact with city bus transportation through an innovative ticket and monthly pass system.
 
@@ -52,6 +49,8 @@ Welcome to **EBus Travelmate**, your smart solution for city bus ticket booking!
 1. Clone the repository.
    ```bash
    git clone https://github.com/dpmehta/ebus_travelmate.git
+
+##Fare Chart
 
 ![fare_chart](https://github.com/dpmehta/E_Bus_Travelmate/assets/104881208/4ed9751f-07a9-4cd3-8eaa-c55bff9a62a7)
 
