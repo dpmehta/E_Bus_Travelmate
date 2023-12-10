@@ -50,7 +50,7 @@ Welcome to **EBus Travelmate**, your smart solution for city bus ticket booking!
    ```bash
    git clone https://github.com/dpmehta/ebus_travelmate.git
 
-##Fare Chart
+Fare Chart
 
 ![fare_chart](https://github.com/dpmehta/E_Bus_Travelmate/assets/104881208/4ed9751f-07a9-4cd3-8eaa-c55bff9a62a7)
 
